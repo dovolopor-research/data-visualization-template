@@ -22,7 +22,8 @@ npm run dev
 
 ## Run in docker
 
-> if deploy in sub route, please add base route in .umirc.ts, such as `base: "/data-visualization-template/"`
+> if the site deploy in sub route, please add base and publicPath in .umirc.ts.
+> e.g. `{ base: "/sub/", publicPath: "/sub/"}`
 
 ```shell
 docker build -t data-visualization-template:1.0.0 .
