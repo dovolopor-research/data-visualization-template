@@ -1,8 +1,10 @@
 # Data Visualization Template
 
-A quick template for data visualization.
+📈 A quick template for data visualization.
 
 ![](./.github/image/preview.png)
+
+[>> Click me to try now <<](https://research.dovolopor.com/data-visualization-template/)
 
 ## Getting Start
 
@@ -37,3 +39,7 @@ docker run -d --restart=always \
 
 - [Ant Design](https://ant-design.antgroup.com/index-cn)
 - [Ant Design Charts](https://ant-design-charts-next.antgroup.com/)
+
+## License
+
+[![](https://award.dovolopor.com?lt=License&rt=MIT&rbc=green)](./LICENSE)
